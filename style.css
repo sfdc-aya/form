@@ -1,0 +1,18 @@
+div{
+    background-color: lightgrey;
+    padding: 10px;
+    text-align: center;
+}
+.left{
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+button{
+    background-color: steelblue;
+    padding: 10px;
+    border-radius: 5px;
+    border: solid 1px steelblue;
+    color: white;
+}
